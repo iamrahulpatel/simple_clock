@@ -87,16 +87,15 @@ body{
 }
 
 @media (max-width: 768px){
-    .clock{
-        height: 300px;
-        width: 300px;
-        background: url();
+    .clock .test{
+        height: 200px;
+        width: 200px;
     }
 }
 
 @media (max-width: 320px){
-    .clock{
-        height: 250px;
-        width: 250px;
+    .clock .test{
+        height: 400px;
+        width: 400px;
     }
 }
